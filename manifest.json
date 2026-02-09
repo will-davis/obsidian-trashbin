@@ -1,0 +1,10 @@
+{
+    "id": "trashbin-obsidian",
+    "name": "Trash Bin",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Adds a trash bin to the sidebar for easy file deletion.",
+    "author": "Will Davis",
+    "authorUrl": "",
+    "isDesktopOnly": true
+}

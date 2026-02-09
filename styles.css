@@ -1,0 +1,14 @@
+.trash-bin-icon {
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: color 0.2s ease;
+}
+
+.trash-bin-icon:hover {
+    color: var(--text-accent);
+}
+
+.trash-bin-icon.trash-drag-over {
+    color: var(--text-error);
+    transform: scale(1.2);
+}
