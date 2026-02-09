@@ -1,6 +1,6 @@
 {
     "id": "trashbin",
-    "name": "Trash Bin",
+    "name": "trashbin",
     "version": "1.0.1",
     "minAppVersion": "0.15.0",
     "description": "Adds a trash bin to the sidebar for easy file deletion.",
