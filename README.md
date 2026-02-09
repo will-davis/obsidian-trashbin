@@ -1,14 +1,14 @@
 # Obsidian Trash Bin Plugin
 
-A simple, lightweight plugin for [Obsidian](https://obsidian.md) that adds a trash bin icon to the bottom of your sidebar ribbon. Drag files or folders to the bin to move them to your system trash.
+A simple, lightweight plugin for [obsidian](https://obsidian.md) that adds a trash bin icon to the bottom of your sidebar ribbon. Drag files or folders to the bin to move them to your system trash.
 
-![Trash Bin Icon](https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/plugin-icons/trash.png)
+![Trash Bin Icon](https://raw.githubusercontent.com/will-davis/obsidian-trashbin/refs/heads/main/assets/overview.png)
 
 ## Features
 
 - **Drag-and-Drop Deletion**: Quickly delete notes or folders by dragging them to the ribbon.
 - **System Trash Support**: Uses your system trash (or local Obsidian trash depends on your settings) for safe, recoverable deletions.
-- **Seamless UI**: Integrates directly into the sidebar ribbon, adjacent to the Settings gear.
+- **Seamless UI**: Integrates directly into the sidebar ribbon.
 - **Visual Feedback**: Highlights and pulses when you drag items over it.
 
 ## Installation
@@ -33,6 +33,7 @@ If you'd like to build the plugin yourself:
 1. Clone this repository.
 2. Run `npm install` to install dependencies.
 3. Run `npm run build` to compile the plugin.
+
 4. The `main.js` file will be generated in the root directory.
 
 ## License
