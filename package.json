@@ -1,6 +1,6 @@
 {
   "name": "trashbin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a trash bin to the sidebar for easy file deletion.",
   "main": "main.js",
   "scripts": {
