@@ -2,7 +2,7 @@
 
 A simple, lightweight plugin for [Obsidian](https://obsidian.md) that adds a trash bin icon to the bottom of your sidebar ribbon. Drag files or folders to the bin to move them to your system trash.
 
-![Trash Bin Icon](https://raw.githubusercontent.com/will-davis/obsidian-trashbin/refs/heads/main/assets/overview.png)
+![Trashbin Icon](https://raw.githubusercontent.com/will-davis/obsidian-trashbin/refs/heads/main/assets/overview.png)
 
 ## Features
 
@@ -20,8 +20,8 @@ A simple, lightweight plugin for [Obsidian](https://obsidian.md) that adds a tra
 
 ### Manual Installation
 
-1. Download the latest `main.js`, `manifest.json`, and `styles.css` from the [Latest Release](https://github.com/willdavis/trashbin-obsidian/releases).
-2. Create a folder named `trashbin-obsidian` in your vault's `.obsidian/plugins/` directory.
+1. Download the latest `main.js`, `manifest.json`, and `styles.css` from the [Latest Release](https://github.com/will-davis/obsidian-trashbin/releases).
+2. Create a folder named `trashbin` in your vault's `.obsidian/plugins/` directory.
 3. Move the downloaded files into that folder.
 4. Reload Obsidian and enable the plugin in **Settings** > **Community Plugins**.
 

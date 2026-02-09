@@ -1,5 +1,5 @@
 {
-  "name": "trashbin-obsidian",
+  "name": "trashbin",
   "version": "1.0.0",
   "description": "Adds a trash bin to the sidebar for easy file deletion.",
   "main": "main.js",
